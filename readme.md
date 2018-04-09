@@ -4,9 +4,11 @@
 <br>
 Ｙｏｕ　Ｔｅｌｌ　Ｍｅ　：）
 <br>
+<pre>
 <h3>Ｃｈａｎｇｅｌｏｇ　Ｖ１．０　：</h3>
 <ol>
   <li>Initial Commit</li>
 </ol>
+</pre>
 <br>
 <small>This is Experimental Version, so it has lot of bug</small>
