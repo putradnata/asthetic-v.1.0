@@ -4,8 +4,8 @@
 <br>
 Ｙｏｕ　Ｔｅｌｌ　Ｍｅ　：）
 <br>
-<pre>
 <h3>Ｃｈａｎｇｅｌｏｇ　Ｖ１．０　：</h3>
+<pre>
 <ol>
   <li>Initial Commit</li>
 </ol>
