@@ -1,14 +1,15 @@
-<h1>ｓｔａｙ　ＡＥＳＴＨＥＴＩＣ</h1>
-<br>
-ＢＵＧ　：
-<br>
-Ｙｏｕ　Ｔｅｌｌ　Ｍｅ　：）
-<br>
-<h3>Ｃｈａｎｇｅｌｏｇ　Ｖ１．０　：</h3>
-<pre>
-  <ol>
-    <li>Initial Commit</li>
-  </ol>
-</pre>
-<br>
-<small>This is Experimental Version, so it has lot of bug</small>
+## ｓｔａｙ　ＡＥＳＴＨＥＴＩＣ
+
+## Changelog V1.0 ( 2018-04-18 )
+ - Added new pages "Profile"
+ - Added some features :
+   - Timeline
+   - Modal
+ - Fixed : some Route not work
+ 
+ ## Bug :
+  - Ｙｏｕ　Ｔｅｌｌ　Ｍｅ
+ 
+ **This is Experimental Version, so it has a lot of bug**
+ 
+ If you want to contribute, you can PM me thank you :)  
