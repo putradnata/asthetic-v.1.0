@@ -10,9 +10,9 @@
       <div class="card-header" style="background-image: url(demo/photos/eberhard-grossgasteiger-311213-500.jpg);"></div>
       <div class="card-body text-center">
         <img class="card-profile-img" src="demo/faces/male/16.jpg">
-        <h3 class="mb-3">{{ Auth::user()->fullname }}</h3>
+        <h3 class="mb-3">{{ Auth::user()->name }}</h3>
         <p class="mb-4">
-          {{ Auth::user()->description }}
+          <a href="mailto:{{ Auth::user()->email }}">{{ Auth::user()->email }}</a>
         </p>
         <button class="btn btn-outline-primary btn-sm" data-target="#myModal" data-toggle="modal">
           <span class="fe fe-edit"></span> Edit Profile
