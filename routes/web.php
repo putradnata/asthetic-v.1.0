@@ -24,3 +24,8 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/profile', function(){
   return view('pages/profile');
 });
+
+// Course Route
+Route::get('/course', function(){
+  return view('pages/course');
+});
