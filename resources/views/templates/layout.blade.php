@@ -16,6 +16,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
     <link rel="manifest" href="./manifest.json" />
     <!-- Generated: 2018-04-06 16:27:42 +0200 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <title> @yield('title') </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
@@ -119,6 +120,9 @@
                     </li>
                     <li class="nav-item">
                       <a href="{!! url('/profile') !!}" class="nav-link"><i class="fe fe-user"></i> Profile</a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="{!! url('/course') !!}" class="nav-link"><i class="fe fe-book-open"></i> Manage Course</a>
                     </li>
                   </ul>
                 </div>
