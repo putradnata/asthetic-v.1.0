@@ -17,10 +17,10 @@
           <div class="col-lg order-lg-first">
             <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
               <li class="nav-item">
-                <a href="/home" class="nav-link active"><i class="fe fe-home"></i> Dashboard</a>
+                <a href="{!! url('/home') !!}" class="nav-link active"><i class="fe fe-home"></i> Dashboard</a>
               </li>
               <li class="nav-item">
-                <a href="/profile" class="nav-link"><i class="fe fe-user"></i> Profile</a>
+                <a href="{!! url('/profile') !!}" class="nav-link"><i class="fe fe-user"></i> Profile</a>
               </li>
             </ul>
           </div>
